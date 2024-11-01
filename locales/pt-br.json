@@ -16,7 +16,11 @@
         "gang_menu": "Menu da Gangue",
         "boss_menu": "Menu do Chefe",
         "gang_management": "[E] - Abrir Gerenciamento de Gangues",
-        "boss_management": "[E] - Abrir Gerenciamento do Chefe"
+        "boss_management": "[E] - Abrir Gerenciamento do Chefe",
+        "manage_permissions": "Gerenciar Permissões",
+        "manage_gang_permissions": "Gerenciar Permissões da Guangue",
+        "manage_job_permissions": "Gerenciar permissões dos cargos",
+        "manage_gang_job_permissions": "Gerenciar permissões dos cargos da gangue"
     },
     "error": {
         "cant_promote": "Você não pode mudar o cargo de uma pessoa cujo cargo é igual ou superior ao seu...",
