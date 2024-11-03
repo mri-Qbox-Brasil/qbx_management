@@ -42,6 +42,6 @@
         "promoted": "Promoção realizada com sucesso!",
         "promoted_to": "Você foi promovido a ",
         "hired_to": "Você foi contratado para ",
-        "hired_into": "Você contratou %{who} para %{where}"
+        "hired_into": "Você contratou %s para %s"
     }
 }
